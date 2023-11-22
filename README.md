@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi everyone 👋
+
+- 🤔 I’m looking for help with getting into a working environment
+- ⚡ Fun fact: I have a dog named 🦖
+
+### About me 
+I'm some dude based in Milan, Italy currently finishing highschool. I started coding thanks to a friend of mine who showed me the way and immediatly fell in love with coding . At the moment I'm working on some projects of mine, trying to help out some friends and also learning from them. I love to work with React, Astro, Svelte, Flutter and I'm planning to work with Swift too. I consider myself a hard worker and a patient fellar, i used to play videogames but I gave it up to focus only on coding. I aim to develop into a better person.
+
+
+
+
 
 <!--
 **keepergoin/keepergoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
